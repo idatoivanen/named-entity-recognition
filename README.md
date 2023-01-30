@@ -1,7 +1,7 @@
 
 # Named entity recognition on a Finnish dataset
 
-For running a BERT based model for a named entity recognition task. This repository contains the following notebooks:
+For running a BERT based model for a named entity recognition (NER) task. This repository contains the following notebooks:
 - data_preprocessing
 - named_entity_recognition
 
