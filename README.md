@@ -18,5 +18,5 @@ Note that
 - cleaning up and refactoring the code would be the next logical step if one would like to utilize the code in the notebooks,
 - there are python script versions of the code in [this Huggingface tutorial](https://github.com/huggingface/transformers/blob/main/examples/pytorch/token-classification/run_ner_no_trainer.py) where the NER code is also based on.
 
-This code is used in the following conference paper:
+This code is used in the following conference paper: \
     Toivanen, I., Räsänen, V., Lindroos, J., Oinas, T., & Taipale, S. (2022). Implementing sentiment analysis to an open-ended questionnaire: Case study of digitalization in elderly care during COVID-19. In International Conference of Advanced Research Methods and Analytics. Editorial de la Universitat Politècnica de València. https://ocs.editorial.upv.es/index.php/CARMA/CARMA2022/paper/view/15089
